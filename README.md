@@ -1,6 +1,6 @@
 # Getting Started 
 
 ### install
-1. yarn create react-app [name of file]
-2. yarn add react-axe
-3. yarn add node-sass
+1. fetch, clone or pull the branch
+2. run >> npm install or >> yarn install
+3. run >> yarn start
