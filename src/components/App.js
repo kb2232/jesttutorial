@@ -63,7 +63,7 @@ const JestTutorial = () => {
     )
 	};
 	return (
-		<main className="f_c_fs_c">
+		<main className="f_c_fs_c" data-testid="formid">
 			<h1>This is a jest demo</h1>
 			{renderForm()}
 		</main>
